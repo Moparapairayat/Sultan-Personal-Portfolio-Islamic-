@@ -16,9 +16,9 @@
 
 <img src="https://img.shields.io/badge/Sultan%20Ayat%20Khan-Personal%20Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=gold" alt="Sultan Portfolio">
 
-# 🌟 Sultan/Ruler/Minister - Personal Portfolio
+# <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🌟 Sultan/Ruler/Minister - Personal Portfolio</span>
 
-> **A Modern, Full-Featured Islamic Portfolio & Professional Dashboard** built with Next.js 15, React 19, and Tailwind CSS
+> **<span style="background: linear-gradient(90deg, #f093fb 0%, #f5576c 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">A Modern, Full-Featured Islamic Portfolio & Professional Dashboard</span>** built with Next.js 15, React 19, and Tailwind CSS
 
 <br/>
 
@@ -85,7 +85,7 @@ A **sophisticated, production-ready portfolio website** designed for professiona
 
 ---
 
-## ✨ Features
+## <span style="background: linear-gradient(90deg, #ffa751 0%, #ffe259 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">✨ Features</span>
 
 <table>
 <tr>
@@ -147,7 +147,7 @@ A **sophisticated, production-ready portfolio website** designed for professiona
 
 ---
 
-## � Islamic Behavior & Values
+## 🌈 **<span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Islamic Behavior & Values</span>**
 
 This portfolio is built with Islamic principles and values at its core:
 
@@ -229,7 +229,7 @@ Artistic Expression (Fann Islami)
 
 ---
 
-## �🛠️ Tech Stack
+## 🚀 **<span style="background: linear-gradient(90deg, #00d2fc 0%, #3a7bd5 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Tech Stack</span>**
 
 <details open>
 <summary><b>⚙️ Full Technology Stack (Click to expand)</b></summary>
@@ -618,7 +618,7 @@ See [LICENSE](./LICENSE) file for complete details.
 
 ---
 
-## 📧 Contact
+## <span style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">📧 Contact</span>
 
 <div align="center">
 
