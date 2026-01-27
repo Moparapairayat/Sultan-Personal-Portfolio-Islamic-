@@ -570,6 +570,7 @@ Licensed under the **MIT License** - see [LICENSE](./LICENSE) file for details.
 [![Global Website](https://img.shields.io/badge/🌍%20Global-moparapairayat.com-000000?style=for-the-badge)](https://moparapairayat.com)
 [![UK Website](https://img.shields.io/badge/🇬🇧%20UK-moparapairayat.uk-000000?style=for-the-badge)](https://moparapairayat.uk)
 [![BD Website](https://img.shields.io/badge/🇧🇩%20Bangladesh-moparapairayat.bd-000000?style=for-the-badge)](https://moparapairayat.bd)
+[![TR Website](https://img.shields.io/badge/🇹🇷%20Turkey-moparapairayat.tr-000000?style=for-the-badge)](https://moparapairayat.tr)
 
 ---
 
@@ -580,6 +581,7 @@ Licensed under the **MIT License** - see [LICENSE](./LICENSE) file for details.
 | 🌍 **Global** | [moparapairayat.com](https://moparapairayat.com) | International clients & worldwide reach |
 | 🇬🇧 **United Kingdom** | [moparapairayat.uk](https://moparapairayat.uk) | UK-based services & clients |
 | 🇧🇩 **Bangladesh** | [moparapairayat.bd](https://moparapairayat.bd) | Bangladesh operations & regional services |
+| 🇹🇷 **Turkey** | [moparapairayat.tr](https://moparapairayat.tr) | Turkey-based services & Middle East reach |
 
 ---
 
@@ -608,6 +610,10 @@ Choose the region that best serves you:
 
 **For Bangladesh Operations:**
 - Visit: [moparapairayat.bd](https://moparapairayat.bd)
+- Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
+
+**For Turkey & Middle East:**
+- Visit: [moparapairayat.tr](https://moparapairayat.tr)
 - Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
 
 </div>
