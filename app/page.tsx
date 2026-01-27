@@ -1192,9 +1192,9 @@ export default function SultanPortfolio() {
       {/* Achievements Section */}
       <section
         id="achievements"
-        className="py-16 bg-gradient-to-br from-amber-50 to-emerald-50 relative overflow-hidden"
+        className="py-20 bg-gradient-to-br from-amber-50 via-orange-50 to-emerald-50 relative overflow-hidden"
       >
-        <div className={`absolute inset-0 text-amber-700 ${getPatternClasses()}`}>
+        <div className={`absolute inset-0 text-amber-300 opacity-40 ${getPatternClasses()}`}>
           <Islamic3DGeometricPattern
             animate={patternSettings.animate}
             intensity={patternSettings.intensity}
@@ -1203,40 +1203,90 @@ export default function SultanPortfolio() {
         </div>
 
         <div className="container mx-auto px-4 relative z-10">
-          <h2 className="text-3xl font-bold text-slate-800 mb-12 text-center font-serif flex items-center justify-center gap-3">
-            <Award className="h-8 w-8 text-amber-600" />
-            {t.achievements.title}
-          </h2>
-          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-7xl mx-auto">
+          <div className="text-center mb-16">
+            <div className="inline-flex items-center justify-center gap-3 mb-4">
+              <Award className="h-10 w-10 text-amber-600 animate-bounce" />
+              <h2 className="text-4xl font-bold text-slate-800 font-serif">
+                {t.achievements.title}
+              </h2>
+              <Award className="h-10 w-10 text-amber-600 animate-bounce" style={{animationDelay: '0.2s'}} />
+            </div>
+            <div className="h-1 w-24 bg-gradient-to-r from-amber-600 to-emerald-600 mx-auto rounded-full"></div>
+          </div>
+          
+          <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
             {t.achievements.items.map((achievement, index) => (
-              <Card
+              <div
                 key={index}
-                className={`border-amber-200 shadow-lg hover:shadow-2xl transition-all duration-300 hover:scale-105 relative overflow-hidden glass-effect ${patternSettings.animate ? "hover:animate-glow" : ""}`}
+                className="group relative"
+                style={{
+                  animation: patternSettings.animate ? `slideUp 0.6s ease-out ${index * 0.1}s both` : 'none'
+                }}
               >
-                <div className="absolute top-0 right-0 text-amber-600">
-                  <IslamicCornerPattern animate={patternSettings.animate} />
-                </div>
-                <CardHeader className="relative z-10">
-                  <div className="flex items-start justify-between mb-2">
-                    <div className="text-2xl">{achievement.icon}</div>
-                    <Badge variant="secondary" className="bg-amber-100 text-amber-800">
-                      {achievement.year}
-                    </Badge>
+                <Card
+                  className={`border-2 border-amber-200 shadow-xl hover:shadow-2xl transition-all duration-500 hover:-translate-y-2 relative overflow-hidden bg-white backdrop-blur-sm ${patternSettings.animate ? "hover:border-amber-400" : ""}`}
+                >
+                  {/* Animated background gradient */}
+                  <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-amber-400 via-orange-400 to-emerald-400 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+                  
+                  <div className="absolute top-0 right-0 text-amber-600 opacity-30 group-hover:opacity-60 transition-opacity duration-300">
+                    <IslamicCornerPattern animate={patternSettings.animate} />
                   </div>
-                  <CardTitle className="text-xl text-slate-800">{achievement.title}</CardTitle>
-                </CardHeader>
-                <CardContent className="relative z-10">
-                  <p className="text-slate-600 mb-3">{achievement.description}</p>
-                  {achievement.impact && (
-                    <div className="text-sm text-emerald-600 font-medium bg-emerald-50 p-2 rounded">
-                      Impact: {achievement.impact}
+                  
+                  <CardHeader className="relative z-10 pb-3">
+                    <div className="flex items-start justify-between mb-3">
+                      <div className="text-4xl transform group-hover:scale-110 transition-transform duration-300">
+                        {achievement.icon}
+                      </div>
+                      <Badge 
+                        variant="secondary" 
+                        className="bg-gradient-to-r from-amber-100 to-orange-100 text-amber-800 font-semibold border border-amber-300"
+                      >
+                        {achievement.year}
+                      </Badge>
                     </div>
-                  )}
-                </CardContent>
-              </Card>
+                    <CardTitle className="text-xl text-slate-800 group-hover:text-amber-700 transition-colors duration-300">
+                      {achievement.title}
+                    </CardTitle>
+                  </CardHeader>
+                  
+                  <CardContent className="relative z-10">
+                    <p className="text-slate-600 group-hover:text-slate-700 transition-colors duration-300 mb-4">
+                      {achievement.description}
+                    </p>
+                    {achievement.impact && (
+                      <div className="text-sm text-emerald-600 font-medium bg-gradient-to-r from-emerald-50 to-teal-50 p-3 rounded-lg border border-emerald-200">
+                        <span className="font-bold">Impact:</span> {achievement.impact}
+                      </div>
+                    )}
+                  </CardContent>
+                </Card>
+              </div>
             ))}
           </div>
         </div>
+
+        {/* Floating decorative elements */}
+        <style>{`
+          @keyframes slideUp {
+            from {
+              opacity: 0;
+              transform: translateY(30px);
+            }
+            to {
+              opacity: 1;
+              transform: translateY(0);
+            }
+          }
+          @keyframes float {
+            0%, 100% {
+              transform: translateY(0px);
+            }
+            50% {
+              transform: translateY(-10px);
+            }
+          }
+        `}</style>
       </section>
 
       {/* Education Section */}
