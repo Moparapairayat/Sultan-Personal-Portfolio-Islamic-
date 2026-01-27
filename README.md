@@ -616,6 +616,30 @@ Choose the region that best serves you:
 - Visit: [moparapairayat.tr](https://moparapairayat.tr)
 - Email: [Support@moparapairayat.tr](mailto:Support@moparapairayat.tr)
 
+---
+
+### 📧 Official Contract & Business Email
+
+Always Active Email Addresses for Contract & Business Inquiries:
+
+| Email | Purpose |
+|-------|---------|
+| 📧 [Moparapairayat@gmail.com](mailto:Moparapairayat@gmail.com) | General Contract & Business Inquiry |
+| 📧 [Moparapairayatbd@gmail.com](mailto:Moparapairayatbd@gmail.com) | Bangladesh & Regional Business Inquiry |
+
+---
+
+### 💬 WhatsApp Contact Numbers
+
+Direct WhatsApp for Project Inquiries:
+
+| WhatsApp | Purpose |
+|----------|---------|
+| 📱 [+1 724-315-5810](https://wa.me/17243155810) | Personal Project Inquiry |
+| 📱 [+1 719-680-2913](https://wa.me/17196802913) | Corporate/Business Large Project Inquiry |
+| 📱 [+8801955000704](https://wa.me/8801955000704) | ML & AML Project Inquiry |
+| 📱 [+8801305868621](https://wa.me/8801305868621) | Security & Server Related Project Inquiry |
+
 </div>
 
 ---
