@@ -14,7 +14,7 @@
 
 ---
 
-<img src="https://img.shields.io/badge/Sultan%20Ayat%20Khan-Personal%20Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=gold" alt="Sultan Portfolio">
+<img src="https://img.shields.io/badge/Sultan-Personal%20Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=gold" alt="Sultan Portfolio">
 
 # <span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">🌟 Sultan/Ruler/Minister - Personal Portfolio</span>
 
@@ -797,7 +797,7 @@ Join the community!
 
 ---
 
-### Made with ❤️ by **Sultan Ayat Khan**
+### Made with ❤️ by **MOPARA PAIR AYAT**
 
 *Crafting digital excellence, one project at a time.*
 
