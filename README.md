@@ -634,7 +634,7 @@ See [LICENSE](./LICENSE) file for complete details.
 [![Global Website](https://img.shields.io/badge/🌍%20Global-moparapairayat.com-000000?style=for-the-badge)](https://moparapairayat.com)
 [![UK Website](https://img.shields.io/badge/🇬🇧%20UK-moparapairayat.uk-000000?style=for-the-badge)](https://moparapairayat.uk)
 [![BD Website](https://img.shields.io/badge/🇧🇩%20Bangladesh-moparapairayat.bd-000000?style=for-the-badge)](https://moparapairayat.bd)
-[![TR Website](https://img.shields.io/badge/🇹🇷%20Turkey-moparapairayat.tr-000000?style=for-the-badge)](https://moparapairayat.tr)
+[![SA Website](https://img.shields.io/badge/🇸🇦%20Saudi%20Arabia-moparapairayat.sa-000000?style=for-the-badge)](https://moparapairayat.sa)
 
 ---
 
@@ -646,6 +646,7 @@ See [LICENSE](./LICENSE) file for complete details.
 
 **🌍 Global**
 - [moparapairayat.com](https://moparapairayat.com)
+- 📧 [Support@moparapairayat.com](mailto:Support@moparapairayat.com)
 - Int'l clients & services
 
 </td>
@@ -653,6 +654,7 @@ See [LICENSE](./LICENSE) file for complete details.
 
 **🇬🇧 United Kingdom**
 - [moparapairayat.uk](https://moparapairayat.uk)
+- 📧 [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
 - UK-based services
 
 </td>
@@ -660,13 +662,15 @@ See [LICENSE](./LICENSE) file for complete details.
 
 **🇧🇩 Bangladesh**
 - [moparapairayat.bd](https://moparapairayat.bd)
+- 📧 [Support@moparapairayat.bd](mailto:Support@moparapairayat.bd)
 - Regional operations
 
 </td>
 <td align="center">
 
-**🇹🇷 Turkey**
-- [moparapairayat.tr](https://moparapairayat.tr)
+**🇸🇦 Saudi Arabia**
+- [moparapairayat.sa](https://moparapairayat.sa)
+- 📧 [Support@moparapairayat.sa](mailto:Support@moparapairayat.sa)
 - ME & regional reach
 
 </td>
