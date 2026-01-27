@@ -7,6 +7,13 @@
 
 ---
 
+# السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+
+### *Assalamu'alaikum warahmatullahi wabarakatuh*
+**May the peace, mercy, and blessings of Allah be with you**
+
+---
+
 <img src="https://img.shields.io/badge/Sultan%20Ayat%20Khan-Personal%20Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=gold" alt="Sultan Portfolio">
 
 # 🌟 Sultan/Ruler/Minister - Personal Portfolio
