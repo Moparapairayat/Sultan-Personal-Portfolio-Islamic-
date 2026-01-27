@@ -1,5 +1,12 @@
 <div align="center">
 
+# بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ
+
+### *Bismillahir Rahmanir Rahim*
+**In the Name of God, the Most Gracious, the Most Merciful**
+
+---
+
 <img src="https://img.shields.io/badge/Sultan%20Ayat%20Khan-Personal%20Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=gold" alt="Sultan Portfolio">
 
 # 🌟 Sultan/Ruler/Minister - Personal Portfolio
