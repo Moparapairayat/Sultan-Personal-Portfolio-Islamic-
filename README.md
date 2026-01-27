@@ -10,7 +10,7 @@
 [![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](./LICENSE)
 
-**[🚀 Live Demo](https://vercel.com/mopara-pair-ayats-projects/v0-sultan-ayat-khan-portfolio)** • **[📧 Get in Touch](#contact)** • **[📖 Documentation](#documentation)**
+**[🚀 Live Demo](https://sultan-personal-portfolio-islamic.vercel.app/)** • **[📧 Get in Touch](#contact)** • **[📖 Documentation](#documentation)**
 
 </div>
 
@@ -33,6 +33,14 @@
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 - [📧 Contact](#-contact)
+
+---
+
+## 🌐 Live Demo
+
+🎉 **The portfolio is now live!** Visit the live deployment:
+
+**👉 [https://sultan-personal-portfolio-islamic.vercel.app/](https://sultan-personal-portfolio-islamic.vercel.app/)**
 
 ---
 
