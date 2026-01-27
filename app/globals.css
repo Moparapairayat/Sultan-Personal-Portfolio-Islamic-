@@ -1,0 +1,180 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 217.2 91.2% 59.8%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 222.2 84% 4.9%;
+
+    --radius: 0.5rem;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 210 40% 98%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom styles for the Islamic Empire theme */
+:root {
+  --background: 30 100% 98%; /* Warm off-white/cream */
+  --foreground: 220 20% 20%; /* Deep charcoal */
+  --card: 0 0% 100%;
+  --card-foreground: 220 20% 20%;
+  --popover: 0 0% 100%;
+  --popover-foreground: 220 20% 20%;
+  --primary: 30 80% 40%; /* Deep gold/amber */
+  --primary-foreground: 0 0% 100%;
+  --secondary: 40 100% 95%; /* Lighter gold/sand */
+  --secondary-foreground: 220 20% 20%;
+  --muted: 30 100% 90%; /* Muted sand */
+  --muted-foreground: 220 10% 40%;
+  --accent: 30 80% 40%; /* Gold/Amber for highlights */
+  --accent-foreground: 0 0% 100%;
+  --destructive: 0 84.2% 60.2%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 30 60% 80%; /* Warm light brown */
+  --input: 30 60% 80%;
+  --ring: 30 80% 40%;
+  --radius: 0.75rem; /* Slightly more rounded corners */
+}
+
+.dark {
+  --background: 220 20% 10%; /* Dark charcoal */
+  --foreground: 30 100% 90%; /* Lighter gold/cream */
+  --card: 220 20% 15%;
+  --card-foreground: 30 100% 90%;
+  --popover: 220 20% 15%;
+  --popover-foreground: 30 100% 90%;
+  --primary: 30 80% 60%; /* Brighter gold/amber */
+  --primary-foreground: 220 20% 10%;
+  --secondary: 220 20% 25%; /* Darker muted */
+  --secondary-foreground: 30 100% 90%;
+  --muted: 220 20% 20%;
+  --muted-foreground: 30 10% 70%;
+  --accent: 30 80% 60%;
+  --accent-foreground: 220 20% 10%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 220 20% 30%;
+  --input: 220 20% 30%;
+  --ring: 30 80% 60%;
+}
+
+/* Glass effect for cards and header */
+.glass-effect {
+  background-color: hsla(var(--card), 0.8);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+/* Font family for Arabic text */
+.font-arabic {
+  font-family: var(--font-amiri), var(--font-scheherazade), serif;
+}
+
+/* Animations */
+@keyframes spin-subtle {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes float-subtle {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@keyframes glow-subtle {
+  0% {
+    box-shadow: 0 0 5px hsla(var(--accent), 0.5);
+  }
+  50% {
+    box-shadow: 0 0 20px hsla(var(--accent), 0.8);
+  }
+  100% {
+    box-shadow: 0 0 5px hsla(var(--accent), 0.5);
+  }
+}
+
+.animate-spin-subtle {
+  animation: spin-subtle 10s linear infinite;
+}
+
+.animate-float-subtle {
+  animation: float-subtle 6s ease-in-out infinite;
+}
+
+.animate-glow-subtle {
+  animation: glow-subtle 3s ease-in-out infinite;
+}
