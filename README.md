@@ -562,17 +562,53 @@ Licensed under the **MIT License** - see [LICENSE](./LICENSE) file for details.
 
 <div align="center">
 
-### Let's Connect!
+### 🌍 Let's Connect Globally!
+
+**Get in touch across different regions:**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Support@moparapairayat.uk)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moparapairayat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=portfolio&logoColor=white)](https://your-portfolio.com)
+[![Global Website](https://img.shields.io/badge/🌍%20Global-moparapairayat.com-000000?style=for-the-badge)](https://moparapairayat.com)
+[![UK Website](https://img.shields.io/badge/🇬🇧%20UK-moparapairayat.uk-000000?style=for-the-badge)](https://moparapairayat.uk)
+[![BD Website](https://img.shields.io/badge/🇧🇩%20Bangladesh-moparapairayat.bd-000000?style=for-the-badge)](https://moparapairayat.bd)
 
-**Quick Links:**
-- 📧 Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
-- 🌐 Portfolio: [sultan-personal-portfolio-islamic.vercel.app](https://sultan-personal-portfolio-islamic.vercel.app/)
-- 💼 GitHub: [Moparapairayat](https://github.com/Moparapairayat)
+---
+
+### 📍 Regional Websites
+
+| Region | Website | Use Case |
+|--------|---------|----------|
+| 🌍 **Global** | [moparapairayat.com](https://moparapairayat.com) | International clients & worldwide reach |
+| 🇬🇧 **United Kingdom** | [moparapairayat.uk](https://moparapairayat.uk) | UK-based services & clients |
+| 🇧🇩 **Bangladesh** | [moparapairayat.bd](https://moparapairayat.bd) | Bangladesh operations & regional services |
+
+---
+
+### 🔗 Quick Links
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk) |
+| 🌐 **Portfolio** | [sultan-personal-portfolio-islamic.vercel.app](https://sultan-personal-portfolio-islamic.vercel.app/) |
+| 💼 **GitHub** | [Moparapairayat](https://github.com/Moparapairayat) |
+| 🔗 **LinkedIn** | [LinkedIn Profile](https://linkedin.com/in/your-profile) |
+
+---
+
+### 📞 Contact Methods
+
+Choose the region that best serves you:
+
+**For Global Inquiries:**
+- Visit: [moparapairayat.com](https://moparapairayat.com)
+- Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
+
+**For UK Clients:**
+- Visit: [moparapairayat.uk](https://moparapairayat.uk)
+- Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
+
+**For Bangladesh Operations:**
+- Visit: [moparapairayat.bd](https://moparapairayat.bd)
+- Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
 
 </div>
 
