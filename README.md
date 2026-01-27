@@ -635,6 +635,7 @@ See [LICENSE](./LICENSE) file for complete details.
 [![UK Website](https://img.shields.io/badge/🇬🇧%20UK-moparapairayat.uk-000000?style=for-the-badge)](https://moparapairayat.uk)
 [![BD Website](https://img.shields.io/badge/🇧🇩%20Bangladesh-moparapairayat.bd-000000?style=for-the-badge)](https://moparapairayat.bd)
 [![SA Website](https://img.shields.io/badge/🇸🇦%20Saudi%20Arabia-moparapairayat.sa-000000?style=for-the-badge)](https://moparapairayat.sa)
+[![TR Website](https://img.shields.io/badge/🇹🇷%20Turkey-moparapairayat.tr-000000?style=for-the-badge)](https://moparapairayat.tr)
 
 ---
 
@@ -672,6 +673,14 @@ See [LICENSE](./LICENSE) file for complete details.
 - [moparapairayat.sa](https://moparapairayat.sa)
 - 📧 [Support@moparapairayat.sa](mailto:Support@moparapairayat.sa)
 - ME & regional reach
+
+</td>
+<td align="center">
+
+**🇹🇷 Turkey**
+- [moparapairayat.tr](https://moparapairayat.tr)
+- 📧 [Support@moparapairayat.tr](mailto:Support@moparapairayat.tr)
+- Turkish & EU services
 
 </td>
 </tr>
