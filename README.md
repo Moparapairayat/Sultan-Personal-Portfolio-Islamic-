@@ -566,7 +566,7 @@ Licensed under the **MIT License** - see [LICENSE](./LICENSE) file for details.
 
 **Get in touch across different regions:**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Support@moparapairayat.uk)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Support@moparapairayat.com)
 [![Global Website](https://img.shields.io/badge/🌍%20Global-moparapairayat.com-000000?style=for-the-badge)](https://moparapairayat.com)
 [![UK Website](https://img.shields.io/badge/🇬🇧%20UK-moparapairayat.uk-000000?style=for-the-badge)](https://moparapairayat.uk)
 [![BD Website](https://img.shields.io/badge/🇧🇩%20Bangladesh-moparapairayat.bd-000000?style=for-the-badge)](https://moparapairayat.bd)
@@ -589,7 +589,7 @@ Licensed under the **MIT License** - see [LICENSE](./LICENSE) file for details.
 
 | Platform | Link |
 |----------|------|
-| 📧 **Email** | [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk) |
+| 📧 **Email** | [Support@moparapairayat.com](mailto:Support@moparapairayat.com) |
 | 🌐 **Portfolio** | [sultan-personal-portfolio-islamic.vercel.app](https://sultan-personal-portfolio-islamic.vercel.app/) |
 | 💼 **GitHub** | [Moparapairayat](https://github.com/Moparapairayat) |
 | 🔗 **LinkedIn** | [LinkedIn Profile](https://linkedin.com/in/your-profile) |
@@ -602,7 +602,7 @@ Choose the region that best serves you:
 
 **For Global Inquiries:**
 - Visit: [moparapairayat.com](https://moparapairayat.com)
-- Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
+- Email: [Support@moparapairayat.com](mailto:Support@moparapairayat.com)
 
 **For UK Clients:**
 - Visit: [moparapairayat.uk](https://moparapairayat.uk)
@@ -610,11 +610,11 @@ Choose the region that best serves you:
 
 **For Bangladesh Operations:**
 - Visit: [moparapairayat.bd](https://moparapairayat.bd)
-- Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
+- Email: [Support@moparapairayat.bd](mailto:Support@moparapairayat.bd)
 
 **For Turkey & Middle East:**
 - Visit: [moparapairayat.tr](https://moparapairayat.tr)
-- Email: [Support@moparapairayat.uk](mailto:Support@moparapairayat.uk)
+- Email: [Support@moparapairayat.tr](mailto:Support@moparapairayat.tr)
 
 </div>
 
