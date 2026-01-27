@@ -3,7 +3,7 @@
 # بِسْمِ ٱللّٰهِ ٱلرَّحْمٰنِ ٱلرَّحِيمِ
 
 ### *Bismillahir Rahmanir Rahim*
-**In the Name of God, the Most Gracious, the Most Merciful**
+**In the Name of Allah, the Most Gracious, the Most Merciful**
 
 ---
 
@@ -40,69 +40,13 @@
 <!-- CTA Section -->
 <div>
 
-### 🚀 [Live Demo](https://sultan-personal-portfolio-islamic.vercel.app/) • 📧 [Contact](#-contact) • ⭐ [Star Repo](https://github.com/Moparapairayat/Sultan-Personal-Portfolio-Islamic-) • 📖 [Docs](#table-of-contents)
+### 🚀 [Live Demo](https://sultan-personal-portfolio-islamic.vercel.app/) • 📧 [Contact](#-contact) • ⭐ [Star Repo](https://github.com/Moparapairayat/Sultan-Personal-Portfolio-Islamic-)
 
 </div>
 
 ---
 
 </div>
-
-## 📋 Table of Contents
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Getting Started**
-- [🌐 Live Demo](#-live-demo)
-- [📖 Overview](#-overview)
-- [✨ Features](#-features)
-- [� Islamic Values](#-islamic-behavior--values)
-- [�🛠️ Tech Stack](#️-tech-stack)
-
-</td>
-<td valign="top" width="50%">
-
-**Development & More**
-- [📁 Project Structure](#-project-structure)
-- [🚀 Getting Started](#-getting-started)
-- [🎨 Customization](#-customization)
-- [📧 Contact](#-contact)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Live Demo
-
-<div align="center">
-
-### 🎉 **The Portfolio is LIVE!**
-
-#### 👉 **[Visit: sultan-personal-portfolio-islamic.vercel.app](https://sultan-personal-portfolio-islamic.vercel.app/)**
-
-<br/>
-
-> **Experience a modern portfolio with:**
-
-| 🚀 Speed | 📱 Mobile | 🎨 Design | ♿ Access |
-|:---:|:---:|:---:|:---:|
-| **95+ Lighthouse** | **Fully Responsive** | **Beautiful UI** | **WCAG 2.1** |
-| Next.js Turbopack | All Devices | Custom Patterns | Accessibility |
-
-<br/>
-
-</div>
-
----
-
-## 📖 Overview
-
-### 🎯 Premium Professional Portfolio Platform
-
 A **sophisticated, production-ready portfolio website** designed for professionals, consultants, developers, and creative experts who demand excellence. Built with cutting-edge web technologies and best practices.
 
 #### ✅ What Makes This Special
