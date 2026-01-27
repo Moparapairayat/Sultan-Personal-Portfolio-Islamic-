@@ -2,9 +2,9 @@
 
 <img src="https://img.shields.io/badge/Sultan%20Ayat%20Khan-Personal%20Portfolio-black?style=for-the-badge&logo=portfolio&logoColor=gold" alt="Sultan Portfolio">
 
-# 🌟 Sultan Ayat Khan - Personal Portfolio
+# 🌟 Sultan/Ruler/Minister - Personal Portfolio
 
-> **A Modern, Full-Featured Portfolio & Professional Dashboard** built with Next.js 15, React 19, and Tailwind CSS
+> **A Modern, Full-Featured Islamic Portfolio & Professional Dashboard** built with Next.js 15, React 19, and Tailwind CSS
 
 <br/>
 
@@ -44,7 +44,8 @@
 - [🌐 Live Demo](#-live-demo)
 - [📖 Overview](#-overview)
 - [✨ Features](#-features)
-- [🛠️ Tech Stack](#️-tech-stack)
+- [� Islamic Values](#-islamic-behavior--values)
+- [�🛠️ Tech Stack](#️-tech-stack)
 
 </td>
 <td valign="top" width="50%">
@@ -188,7 +189,89 @@ A **sophisticated, production-ready portfolio website** designed for professiona
 
 ---
 
-## 🛠️ Tech Stack
+## � Islamic Behavior & Values
+
+This portfolio is built with Islamic principles and values at its core:
+
+<table>
+<tr>
+<td width="50%">
+
+### 📖 **Core Islamic Principles**
+
+**Integrity & Trust (Amanah)**
+- 🤝 Transparent business practices
+- 💼 Trustworthy professional conduct
+- 📋 Honest communication always
+- ✅ Reliable delivery of services
+
+**Excellence (Ihsan)**
+- 🎯 Do things beautifully & perfectly
+- ⭐ Strive for best in everything
+- 🔧 Continuous improvement mindset
+- 🎨 Quality-first approach
+
+**Knowledge & Wisdom (Ilm)**
+- 📚 Continuous learning culture
+- 🧠 Share knowledge generously
+- 💡 Apply wisdom to solutions
+- 🎓 Educational approach
+
+</td>
+<td width="50%">
+
+### 💪 **Professional Values**
+
+**Respect & Kindness (Akhlaq)**
+- 👥 Respect all clients equally
+- 💬 Courteous communication
+- 🤲 Generous with time & help
+- 😊 Positive, helpful attitude
+
+**Responsibility (Amanah)**
+- 📝 Meet all commitments
+- ⏰ Punctual & reliable
+- 🔒 Protect client data/privacy
+- 💪 Take ownership of work
+
+**Community & Cooperation**
+- 🤝 Collaborate openly
+- 👫 Build strong relationships
+- 🌍 Contribute to community
+- 🔗 Support fellow professionals
+
+</td>
+</tr>
+</table>
+
+### 🌙 **Islamic Design Philosophy**
+
+```
+Spiritual Mindfulness (Taqwa)
+├── Work with good intentions (Niyyah)
+├── Remember Allah in all endeavors
+├── Seek benefit for community
+└── Maintain ethical standards always
+
+Artistic Expression (Fann Islami)
+├── Islamic geometric patterns
+├── Inspired by traditional art
+├── Respect for aesthetics
+└── Meaningful visual communication
+```
+
+### ✨ **Practical Implementation**
+
+- 🙏 **Prayer times** integrated where applicable
+- 📅 **Halal & ethical** business practices
+- 🌍 **Global community** serving all cultures
+- 📖 **Knowledge sharing** without harm
+- 🤝 **Fair pricing** and transparent costs
+- ♿ **Accessibility** as a moral duty
+
+---
+
+## �🛠️ Tech Stack
 
 <details open>
 <summary><b>⚙️ Full Technology Stack (Click to expand)</b></summary>
