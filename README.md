@@ -40,7 +40,7 @@
 <!-- CTA Section -->
 <div>
 
-### 🚀 [Live Demo](https://sultan-personal-portfolio-islamic.vercel.app/) • 📧 [Contact](#-contact) • ⭐ [Star Repo](https://github.com/Moparapairayat/Sultan-Personal-Portfolio-Islamic-)
+### 🚀 [Live Demo](https://moparapairayat.uk/) • 📧 [Contact](#-contact) • ⭐ [Star Repo](https://github.com/Moparapairayat/Sultan-Personal-Portfolio-Islamic-)
 
 </div>
 
